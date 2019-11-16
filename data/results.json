@@ -11,6 +11,8 @@
     {"divisionId":505,"divisionName": "Postal","count": [{"candidate": 1, "votes":13405},{"candidate": 2, "votes": 6165},{"candidate": 3, "votes": 987},{"candidate": 4, "votes": 250}]},
     {"divisionId":116,"divisionName": "Postal","count": [{"candidate": 1, "votes":21717},{"candidate": 2, "votes": 8294},{"candidate": 3, "votes": 2229},{"candidate": 4, "votes": 722}]},
     {"divisionId":605,"divisionName": "Postal","count": [{"candidate": 1, "votes":9151},{"candidate": 2, "votes": 7696},{"candidate": 3, "votes": 638},{"candidate": 4, "votes": 192}]},
-    {"divisionId":1910,"divisionName": "Postal","count": [{"candidate": 1, "votes":21772},{"candidate": 2, "votes": 11532},{"candidate": 3, "votes": 2046},{"candidate": 4, "votes": 459}]}
+    {"divisionId":1910,"divisionName": "Postal","count": [{"candidate": 1, "votes":21772},{"candidate": 2, "votes": 11532},{"candidate": 3, "votes": 2046},{"candidate": 4, "votes": 459}]},
+    {"divisionId":1004,"divisionName": "Kayts","count": [{"candidate": 1, "votes":2917},{"candidate": 2, "votes": 11319},{"candidate": 3, "votes": 30},{"candidate": 4, "votes": 1945}]}
+
   ]
 }
