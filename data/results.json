@@ -1,5 +1,15 @@
 {
   "results": [
+    {
+      "divisionId": 711,
+      "divisionName": "Postal",
+      "count": [
+        {"candidate": 1, "votes": 25099},
+        {"candidate": 2, "votes": 9093},
+        {"candidate": 3, "votes": 2450},
+        {"candidate": 4, "votes": 550}
+      ]
 
+    }
   ]
 }
