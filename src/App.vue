@@ -37,7 +37,7 @@ import Results from './components/Results.vue'
 import axios from "axios";
 
 const candidates = {
-  1: "Gotabaya Rajapaksha",
+  1: "Gotabaya Rajapaksa",
   2: "Sajith Premadasa",
   3: "Anura Kumara Dissanayaka",
   4: "Other"
