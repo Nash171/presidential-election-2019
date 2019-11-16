@@ -1,15 +1,5 @@
 {
   "results": [
-    {
-      "divisionId": 101,
-      "divisionName": "Kesbawa",
-      "count": [
-        {"candidate": 1, "votes": 100},
-        {"candidate": 2, "votes": 70},
-        {"candidate": 3, "votes": 20},
-        {"candidate": 4, "votes": 10}
-      ]
 
-    }
   ]
 }
