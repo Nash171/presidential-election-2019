@@ -1,34 +1,13 @@
 {
   "results": [
-    {
-      "divisionId": 711,
-      "divisionName": "Postal",
-      "count": [
-        {"candidate": 1, "votes": 25099},
-        {"candidate": 2, "votes": 9093},
-        {"candidate": 3, "votes": 2450},
-        {"candidate": 4, "votes": 550}
-      ]
-    },
-    {
-      "divisionId": 1008,
-      "divisionName": "Nallur",
-      "count": [
-        {"candidate": 1, "votes": 1836},
-        {"candidate": 2, "votes": 27605},
-        {"candidate": 3, "votes": 166},
-        {"candidate": 4, "votes": 2486}
-      ]
-    },
-    {
-      "divisionId": 1104,
-      "divisionName": "Postal",
-      "count": [
-        {"candidate": 1, "votes": 1703},
-        {"candidate": 2, "votes": 8402},
-        {"candidate": 3, "votes": 147},
-        {"candidate": 4, "votes": 343}
-      ]
-    }
+    {"divisionId":711,"divisionName": "Postal","count": [{"candidate": 1, "votes":25099},{"candidate": 2, "votes": 9093},{"candidate": 3, "votes": 2450},{"candidate": 4, "votes": 550}]},
+    {"divisionId":1008,"divisionName": "Nallur","count": [{"candidate": 1, "votes":1836},{"candidate": 2, "votes": 27605},{"candidate": 3, "votes": 166},{"candidate": 4, "votes": 2486}]},
+    {"divisionId":1104,"divisionName": "Postal","count": [{"candidate": 1, "votes":1703},{"candidate": 2, "votes": 8402},{"candidate": 3, "votes": 147},{"candidate": 4, "votes": 343}]},
+    {"divisionId":2004,"divisionName": "Postal","count": [{"candidate": 1, "votes":13754},{"candidate": 2, "votes": 6380},{"candidate": 3, "votes": 1340},{"candidate": 4, "votes": 213}]},
+    {"divisionId":2109,"divisionName": "Postal","count": [{"candidate": 1, "votes":19061},{"candidate": 2, "votes": 7940},{"candidate": 3, "votes": 1678},{"candidate": 4, "votes": 326}]},
+    {"divisionId":214,"divisionName": "Postal","count": [{"candidate": 1, "votes":30918},{"candidate": 2, "votes": 12125},{"candidate": 3, "votes": 3181},{"candidate": 4, "votes": 1072}]},
+    {"divisionId":702,"divisionName": "Ambalangoda","count": [{"candidate": 1, "votes":41528},{"candidate": 2, "votes": 17793},{"candidate": 3, "votes": 2480},{"candidate": 4, "votes": 1328}]},
+    {"divisionId":1404,"divisionName": "Postal","count": [{"candidate": 1, "votes":5089},{"candidate": 2, "votes": 7871},{"candidate": 3, "votes": 610},{"candidate": 4, "votes": 290}]},
+    {"divisionId":505,"divisionName": "Postal","count": [{"candidate": 1, "votes":13405},{"candidate": 2, "votes": 6165},{"candidate": 3, "votes": 987},{"candidate": 4, "votes": 250}]}
   ]
 }
