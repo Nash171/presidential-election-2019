@@ -17,6 +17,10 @@
     {"divisionId":309,"divisionName": "Postal","count": [{"candidate": 1, "votes":22586},{"candidate": 2, "votes": 9172},{"candidate": 3, "votes": 1912},{"candidate": 4, "votes": 552}]},
     {"divisionId":1002,"divisionName": "Jaffna","count": [{"candidate": 1, "votes":1617},{"candidate": 2, "votes": 20792},{"candidate": 3, "votes": 96},{"candidate": 4, "votes": 1809}]},
     {"divisionId":1804,"divisionName": "Postal","count": [{"candidate": 1, "votes":9285},{"candidate": 2, "votes": 5835},{"candidate": 3, "votes": 1234},{"candidate": 4, "votes": 312}]},
-    {"divisionId":707,"divisionName": "Habaraduwa","count": [{"candidate": 1, "votes":47659},{"candidate": 2, "votes": 17487},{"candidate": 3, "votes": 2264},{"candidate": 4, "votes": 1265}]}
+    {"divisionId":707,"divisionName": "Habaraduwa","count": [{"candidate": 1, "votes":47659},{"candidate": 2, "votes": 17487},{"candidate": 3, "votes": 2264},{"candidate": 4, "votes": 1265}]},
+    {"divisionId":905,"divisionName": "Postal","count": [{"candidate": 1, "votes":12983},{"candidate": 2, "votes": 3947},{"candidate": 3, "votes": 1731},{"candidate": 4, "votes": 172}]},
+    {"divisionId":1009,"divisionName": "Point Pedro","count": [{"candidate": 1, "votes":1848},{"candidate": 2, "votes": 19931},{"candidate": 3, "votes": 57},{"candidate": 4, "votes": 2380}]},
+    {"divisionId":706,"divisionName": "Galle","count": [{"candidate": 1, "votes":31108},{"candidate": 2, "votes": 31248},{"candidate": 3, "votes": 3044},{"candidate": 4, "votes": 1238}]}
+
   ]
 }
