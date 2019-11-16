@@ -237,7 +237,7 @@ export default {
           return _district;
         });
 
-        this.results = results;
+        this.results = results.reverse();
         this.districtResults = districtResults;
         this.overlay = overlay;
       })
