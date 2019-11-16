@@ -157,89 +157,91 @@ export default {
     this.timer = setInterval(this.fetchResults, 60000)
   },
   methods: {
-      fetchResults () {
-        axios
-        .get("data/results.json")
-        .then(res => {
+    track () {
+      this.$ga.page('/')
+    },
+    fetchResults () {
+      axios
+      .get("data/results.json")
+      .then(res => {
 
-          const district_results = Array(23).fill(null).map(()=> ({
-            1: 0,
-            2: 0,
-            3: 0,
-            4: 0
-          }));
+        const district_results = Array(23).fill(null).map(()=> ({
+          1: 0,
+          2: 0,
+          3: 0,
+          4: 0
+        }));
 
-          const results = res.data.results.map((result, index) => {
-            const total = result.count.reduce((a, b) => a + b.votes, 0)
-            const districtId = Math.floor(result.divisionId/100);
+        const results = res.data.results.map((result, index) => {
+          const total = result.count.reduce((a, b) => a + b.votes, 0)
+          const districtId = Math.floor(result.divisionId/100);
 
-            const count = result.count.map((record,index) => {
-              district_results[0][record.candidate] += record.votes;
-              district_results[districtId][record.candidate] += record.votes;
-
-              return {
-                "id": index,
-                "candidate": candidates[record.candidate],
-                "votes": record.votes,
-                "precentage": (record.votes*100 / total).toFixed(2)
-              }
-            });
-
-            count.sort((a,b)=>b.votes-a.votes);
+          const count = result.count.map((record,index) => {
+            district_results[0][record.candidate] += record.votes;
+            district_results[districtId][record.candidate] += record.votes;
 
             return {
-                "id": index,
-                "divisionId": result.divisionId,
-                "divisionName": result.divisionName,
-                "districtId": districtId,
-                "count": count
+              "id": index,
+              "candidate": candidates[record.candidate],
+              "votes": record.votes,
+              "precentage": (record.votes*100 / total).toFixed(2)
             }
-          })
-
-          const overlay = [];
-          const districtResults = district_results.map((district,index) => {
-            const total = district[1]+district[2]+district[3]+district[4];
-
-            const _district = [{
-              "candidateId": 1,
-              "votes": district[1],
-              "precentage": total ? (district[1]*100 / total).toFixed(2) : 0
-            },
-            {
-              "candidateId": 2,
-              "votes": district[2],
-              "precentage": total ? (district[2]*100 / total).toFixed(2) : 0
-            },
-            {
-              "candidateId": 3,
-              "votes": district[3],
-              "precentage": total ? (district[3]*100 / total).toFixed(2) : 0
-            },
-            {
-              "candidateId": 4,
-              "votes": district[4],
-              "precentage": total ? (district[4]*100 / total).toFixed(2) : 0
-            }];
-
-            _district.sort((a,b)=>b.votes-a.votes);
-
-            if(index){
-              overlay.push({
-                id: index,
-                lead: _district[0].candidateId,
-                precentage: _district[0].precentage
-              })
-            }
-
-            return _district;
           });
 
-          this.results = results;
-          this.districtResults = districtResults;
-          this.overlay = overlay;
-        })
-      },
+          count.sort((a,b)=>b.votes-a.votes);
 
+          return {
+              "id": index,
+              "divisionId": result.divisionId,
+              "divisionName": result.divisionName,
+              "districtId": districtId,
+              "count": count
+          }
+        })
+
+        const overlay = [];
+        const districtResults = district_results.map((district,index) => {
+          const total = district[1]+district[2]+district[3]+district[4];
+
+          const _district = [{
+            "candidateId": 1,
+            "votes": district[1],
+            "precentage": total ? (district[1]*100 / total).toFixed(2) : 0
+          },
+          {
+            "candidateId": 2,
+            "votes": district[2],
+            "precentage": total ? (district[2]*100 / total).toFixed(2) : 0
+          },
+          {
+            "candidateId": 3,
+            "votes": district[3],
+            "precentage": total ? (district[3]*100 / total).toFixed(2) : 0
+          },
+          {
+            "candidateId": 4,
+            "votes": district[4],
+            "precentage": total ? (district[4]*100 / total).toFixed(2) : 0
+          }];
+
+          _district.sort((a,b)=>b.votes-a.votes);
+
+          if(index){
+            overlay.push({
+              id: index,
+              lead: _district[0].candidateId,
+              precentage: _district[0].precentage
+            })
+          }
+
+          return _district;
+        });
+
+        this.results = results;
+        this.districtResults = districtResults;
+        this.overlay = overlay;
+      })
+    },
   },
 }
 </script>
