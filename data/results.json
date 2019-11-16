@@ -9,7 +9,16 @@
         {"candidate": 3, "votes": 2450},
         {"candidate": 4, "votes": 550}
       ]
-
+    },
+    {
+      "divisionId": 1008,
+      "divisionName": "Nallur",
+      "count": [
+        {"candidate": 1, "votes": 1836},
+        {"candidate": 2, "votes": 27605},
+        {"candidate": 3, "votes": 166},
+        {"candidate": 4, "votes": 2486}
+      ]
     }
   ]
 }
