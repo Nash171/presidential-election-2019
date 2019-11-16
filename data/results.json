@@ -12,7 +12,11 @@
     {"divisionId":116,"divisionName": "Postal","count": [{"candidate": 1, "votes":21717},{"candidate": 2, "votes": 8294},{"candidate": 3, "votes": 2229},{"candidate": 4, "votes": 722}]},
     {"divisionId":605,"divisionName": "Postal","count": [{"candidate": 1, "votes":9151},{"candidate": 2, "votes": 7696},{"candidate": 3, "votes": 638},{"candidate": 4, "votes": 192}]},
     {"divisionId":1910,"divisionName": "Postal","count": [{"candidate": 1, "votes":21772},{"candidate": 2, "votes": 11532},{"candidate": 3, "votes": 2046},{"candidate": 4, "votes": 459}]},
-    {"divisionId":1004,"divisionName": "Kayts","count": [{"candidate": 1, "votes":2917},{"candidate": 2, "votes": 11319},{"candidate": 3, "votes": 30},{"candidate": 4, "votes": 1945}]}
-
+    {"divisionId":1004,"divisionName": "Kayts","count": [{"candidate": 1, "votes":2917},{"candidate": 2, "votes": 11319},{"candidate": 3, "votes": 30},{"candidate": 4, "votes": 1945}]},
+    {"divisionId":1305,"divisionName": "Postal","count": [{"candidate": 1, "votes":10831},{"candidate": 2, "votes": 11261},{"candidate": 3, "votes": 1134},{"candidate": 4, "votes": 397}]},
+    {"divisionId":309,"divisionName": "Postal","count": [{"candidate": 1, "votes":22586},{"candidate": 2, "votes": 9172},{"candidate": 3, "votes": 1912},{"candidate": 4, "votes": 552}]},
+    {"divisionId":1002,"divisionName": "Jaffna","count": [{"candidate": 1, "votes":1617},{"candidate": 2, "votes": 20792},{"candidate": 3, "votes": 96},{"candidate": 4, "votes": 1809}]},
+    {"divisionId":1804,"divisionName": "Postal","count": [{"candidate": 1, "votes":9285},{"candidate": 2, "votes": 5835},{"candidate": 3, "votes": 1234},{"candidate": 4, "votes": 312}]},
+    {"divisionId":707,"divisionName": "Habaraduwa","count": [{"candidate": 1, "votes":47659},{"candidate": 2, "votes": 17487},{"candidate": 3, "votes": 2264},{"candidate": 4, "votes": 1265}]}
   ]
 }
