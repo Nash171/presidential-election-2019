@@ -19,6 +19,16 @@
         {"candidate": 3, "votes": 166},
         {"candidate": 4, "votes": 2486}
       ]
+    },
+    {
+      "divisionId": 1104,
+      "divisionName": "Postal",
+      "count": [
+        {"candidate": 1, "votes": 1703},
+        {"candidate": 2, "votes": 8402},
+        {"candidate": 3, "votes": 147},
+        {"candidate": 4, "votes": 343}
+      ]
     }
   ]
 }
