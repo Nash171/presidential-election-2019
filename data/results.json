@@ -76,7 +76,9 @@
     {"divisionId":1201,"divisionName": "Batticaloa","count": [{"candidate": 1, "votes":12594},{"candidate": 2, "votes": 109449},{"candidate": 3, "votes": 1499},{"candidate": 4, "votes": 16540}]},
     {"divisionId":1601,"divisionName": "Anamaduwa","count": [{"candidate": 1, "votes":60963},{"candidate": 2, "votes": 29842},{"candidate": 3, "votes": 2183},{"candidate": 4, "votes": 2160}]},
     {"divisionId":2001,"divisionName": "Bibile","count": [{"candidate": 1, "votes":44351},{"candidate": 2, "votes": 21914},{"candidate": 3, "votes": 2264},{"candidate": 4, "votes": 1811}]},
-    {"divisionId":602,"divisionName": "Kotmale","count": [{"candidate": 1, "votes":27572},{"candidate": 2, "votes": 36901},{"candidate": 3, "votes": 1057},{"candidate": 4, "votes": 1929}]}
+    {"divisionId":602,"divisionName": "Kotmale","count": [{"candidate": 1, "votes":27572},{"candidate": 2, "votes": 36901},{"candidate": 3, "votes": 1057},{"candidate": 4, "votes": 1929}]},
+    {"divisionId":2106,"divisionName": "Pelmadulla","count": [{"candidate": 1, "votes":41469},{"candidate": 2, "votes": 31845},{"candidate": 3, "votes": 1315},{"candidate": 4, "votes": 1700}]},
+    {"divisionId":1903,"divisionName": "Hali Ela","count": [{"candidate": 1, "votes":26485},{"candidate": 2, "votes": 28502},{"candidate": 3, "votes": 1379},{"candidate": 4, "votes": 2181}]}
 
   ]
 }
