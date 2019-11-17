@@ -32,7 +32,8 @@
     {"divisionId":803,"divisionName": "Devinuwara","count": [{"candidate": 1, "votes":43556},{"candidate": 2, "votes": 17391},{"candidate": 3, "votes": 2760},{"candidate": 4, "votes": 993}]},
     {"divisionId":1005,"divisionName": "Kilinochchi","count": [{"candidate": 1, "votes":3238},{"candidate": 2, "votes": 55585},{"candidate": 3, "votes": 197},{"candidate": 4, "votes": 4793}]},
     {"divisionId":1907,"divisionName": "Uva-Paranagama","count": [{"candidate": 1, "votes":27028},{"candidate": 2, "votes": 22787},{"candidate": 3, "votes": 1207},{"candidate": 4, "votes": 1735}]},
-    {"divisionId":705,"divisionName": "Bentara-Elpitiya","count": [{"candidate": 1, "votes":49734},{"candidate": 2, "votes": 20606},{"candidate": 3, "votes": 2511},{"candidate": 4, "votes": 1715}]}
-  
+    {"divisionId":705,"divisionName": "Bentara-Elpitiya","count": [{"candidate": 1, "votes":49734},{"candidate": 2, "votes": 20606},{"candidate": 3, "votes": 2511},{"candidate": 4, "votes": 1715}]},
+    {"divisionId":1606,"divisionName": "Postal","count": [{"candidate": 1, "votes":7645},{"candidate": 2, "votes": 4685},{"candidate": 3, "votes": 764},{"candidate": 4, "votes": 233}]}
+
   ]
 }
