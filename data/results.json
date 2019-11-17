@@ -28,6 +28,11 @@
     {"divisionId":808,"divisionName": "Postal","count": [{"candidate": 1, "votes":19379},{"candidate": 2, "votes": 5782},{"candidate": 3, "votes": 2153},{"candidate": 4, "votes": 281}]},
     {"divisionId":1006,"divisionName": "Kopay","count": [{"candidate": 1, "votes":1858},{"candidate": 2, "votes": 30835},{"candidate": 3, "votes": 100},{"candidate": 4, "votes": 4160}]},
     {"divisionId":1012,"divisionName": "Postal","count": [{"candidate": 1, "votes":1563},{"candidate": 2, "votes": 17961},{"candidate": 3, "votes": 239},{"candidate": 4, "votes": 1446}]},
-    {"divisionId":1101,"divisionName": "Mannar","count": [{"candidate": 1, "votes":6435},{"candidate": 2, "votes": 53602},{"candidate": 3, "votes": 180},{"candidate": 4, "votes": 3048}]}
+    {"divisionId":1101,"divisionName": "Mannar","count": [{"candidate": 1, "votes":6435},{"candidate": 2, "votes": 53602},{"candidate": 3, "votes": 180},{"candidate": 4, "votes": 3048}]},
+    {"divisionId":803,"divisionName": "Devinuwara","count": [{"candidate": 1, "votes":43556},{"candidate": 2, "votes": 17391},{"candidate": 3, "votes": 2760},{"candidate": 4, "votes": 993}]},
+    {"divisionId":1005,"divisionName": "Kilinochchi","count": [{"candidate": 1, "votes":3238},{"candidate": 2, "votes": 55585},{"candidate": 3, "votes": 197},{"candidate": 4, "votes": 4793}]},
+    {"divisionId":1907,"divisionName": "Uva-Paranagama","count": [{"candidate": 1, "votes":27028},{"candidate": 2, "votes": 22787},{"candidate": 3, "votes": 1207},{"candidate": 4, "votes": 1735}]},
+    {"divisionId":705,"divisionName": "Bentara-Elpitiya","count": [{"candidate": 1, "votes":49734},{"candidate": 2, "votes": 20606},{"candidate": 3, "votes": 2511},{"candidate": 4, "votes": 1715}]}
+  
   ]
 }
