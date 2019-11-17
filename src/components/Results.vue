@@ -68,7 +68,7 @@
     padding: 2px;
     margin: 5px;
     line-height: 20px;
-    height: 30px;
+    height: auto;
   }
   .candidate {
     width: 75%;

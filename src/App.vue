@@ -298,7 +298,7 @@ export default {
     padding: 5px;
     margin: 5px;
     line-height: 50px;
-    height: auto;
+    height: 60px;
   }
   .candidate {
     width: 60px;
