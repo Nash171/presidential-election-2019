@@ -78,7 +78,10 @@
     {"divisionId":2001,"divisionName": "Bibile","count": [{"candidate": 1, "votes":44351},{"candidate": 2, "votes": 21914},{"candidate": 3, "votes": 2264},{"candidate": 4, "votes": 1811}]},
     {"divisionId":602,"divisionName": "Kotmale","count": [{"candidate": 1, "votes":27572},{"candidate": 2, "votes": 36901},{"candidate": 3, "votes": 1057},{"candidate": 4, "votes": 1929}]},
     {"divisionId":2106,"divisionName": "Pelmadulla","count": [{"candidate": 1, "votes":41469},{"candidate": 2, "votes": 31845},{"candidate": 3, "votes": 1315},{"candidate": 4, "votes": 1700}]},
-    {"divisionId":1903,"divisionName": "Hali Ela","count": [{"candidate": 1, "votes":26485},{"candidate": 2, "votes": 28502},{"candidate": 3, "votes": 1379},{"candidate": 4, "votes": 2181}]}
+    {"divisionId":1903,"divisionName": "Hali Ela","count": [{"candidate": 1, "votes":26485},{"candidate": 2, "votes": 28502},{"candidate": 3, "votes": 1379},{"candidate": 4, "votes": 2181}]},
+    {"divisionId":1904,"divisionName": "Haputale","count": [{"candidate": 1, "votes":21993},{"candidate": 2, "votes": 29641},{"candidate": 3, "votes": 1023},{"candidate": 4, "votes": 1941}]},
+    {"divisionId":1203,"divisionName": "Padiruppu","count": [{"candidate": 1, "votes":7948},{"candidate": 2, "votes": 54132},{"candidate": 3, "votes": 156},{"candidate": 4, "votes": 2943}]},
+    {"divisionId":107,"divisionName": "Dehiwala","count": [{"candidate": 1, "votes":19122},{"candidate": 2, "votes": 25004},{"candidate": 3, "votes": 1480},{"candidate": 4, "votes": 919}]}
 
   ]
 }
