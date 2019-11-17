@@ -68,7 +68,7 @@ export default {
         },
         {
           id: 3,
-          name: 'Kaluthara',
+          name: 'Kalutara',
         },
         {
           id: 4,
