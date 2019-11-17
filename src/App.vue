@@ -72,7 +72,7 @@ export default {
         },
         {
           id: 4,
-          name: 'Mahanuwara',
+          name: 'Kandy',
         },
         {
           id: 5,
