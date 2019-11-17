@@ -123,7 +123,12 @@
     {"divisionId":1602,"divisionName": "Chillaw","count": [{"candidate": 1, "votes":51233},{"candidate": 2, "votes": 37512},{"candidate": 3, "votes": 2977},{"candidate": 4, "votes": 2163}]},
     {"divisionId":503,"divisionName": "Matale","count": [{"candidate": 1, "votes":32486},{"candidate": 2, "votes": 33251},{"candidate": 3, "votes": 1895},{"candidate": 4, "votes": 1629}]},
     {"divisionId":903,"divisionName": "Tangalle","count": [{"candidate": 1, "votes":72673},{"candidate": 2, "votes": 22141},{"candidate": 3, "votes": 7830},{"candidate": 4, "votes": 1881}]},
-    {"divisionId":603,"divisionName": "NuwaraEliya-Maskeliya","count": [{"candidate": 1, "votes":75499},{"candidate": 2, "votes": 174413},{"candidate": 3, "votes": 2256},{"candidate": 4, "votes": 10622}]}
+    {"divisionId":603,"divisionName": "NuwaraEliya-Maskeliya","count": [{"candidate": 1, "votes":75499},{"candidate": 2, "votes": 174413},{"candidate": 3, "votes": 2256},{"candidate": 4, "votes": 10622}]},
+    {"divisionId":1503,"divisionName": "Dodangaslanda","count": [{"candidate": 1, "votes":32074},{"candidate": 2, "votes": 21489},{"candidate": 3, "votes": 2078},{"candidate": 4, "votes": 1416}]},
+    {"divisionId":2204,"divisionName": "Galigamuwa","count": [{"candidate": 1, "votes":32376},{"candidate": 2, "votes": 20475},{"candidate": 3, "votes": 1405},{"candidate": 4, "votes": 1224}]},
+    {"divisionId":208,"divisionName": "Kelaniya","count": [{"candidate": 1, "votes":43668},{"candidate": 2, "votes": 27521},{"candidate": 3, "votes": 3134},{"candidate": 4, "votes": 1532}]},
+    {"divisionId":301,"divisionName": "Agalawatta","count": [{"candidate": 1, "votes":52400},{"candidate": 2, "votes": 28744},{"candidate": 3, "votes": 2319},{"candidate": 4, "votes": 1928}]},
+    {"divisionId":307,"divisionName": "Matugama","count": [{"candidate": 1, "votes":55932},{"candidate": 2, "votes": 31451},{"candidate": 3, "votes": 3028},{"candidate": 4, "votes": 2155}]}
 
   ]
 }
