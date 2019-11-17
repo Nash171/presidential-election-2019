@@ -100,7 +100,13 @@
     {"divisionId":1511,"divisionName": "Panduwasnuwara","count": [{"candidate": 1, "votes":35508},{"candidate": 2, "votes": 24238},{"candidate": 3, "votes": 1441},{"candidate": 4, "votes": 1092}]},
     {"divisionId":1513,"divisionName": "Wariyapola","count": [{"candidate": 1, "votes":40261},{"candidate": 2, "votes": 20591},{"candidate": 3, "votes": 1984},{"candidate": 4, "votes": 1163}]},
     {"divisionId":1905,"divisionName": "Mahiyangane","count": [{"candidate": 1, "votes":46267},{"candidate": 2, "votes": 32345},{"candidate": 3, "votes": 2534},{"candidate": 4, "votes": 2474}]},
-    {"divisionId":305,"divisionName": "Horana","count": [{"candidate": 1, "votes":69822},{"candidate": 2, "votes": 32967},{"candidate": 3, "votes": 3532},{"candidate": 4, "votes": 2262}]}
+    {"divisionId":305,"divisionName": "Horana","count": [{"candidate": 1, "votes":69822},{"candidate": 2, "votes": 32967},{"candidate": 3, "votes": 3532},{"candidate": 4, "votes": 2262}]},
+    {"divisionId":2103,"divisionName": "Kalawana","count": [{"candidate": 1, "votes":35399},{"candidate": 2, "votes": 19291},{"candidate": 3, "votes": 1221},{"candidate": 4, "votes": 1313}]},
+    {"divisionId":2101,"divisionName": "Balangoda","count": [{"candidate": 1, "votes":53120},{"candidate": 2, "votes": 36421},{"candidate": 3, "votes": 2160},{"candidate": 4, "votes": 2446}]},
+    {"divisionId":2105,"divisionName": "Nivitigala","count": [{"candidate": 1, "votes":50806},{"candidate": 2, "votes": 32691},{"candidate": 3, "votes": 1344},{"candidate": 4, "votes": 2230}]},
+    {"divisionId":1303,"divisionName": "Potuvil","count": [{"candidate": 1, "votes":20116},{"candidate": 2, "votes": 100952},{"candidate": 3, "votes": 1061},{"candidate": 4, "votes": 3092}]},
+    {"divisionId":304,"divisionName": "Bulathsinhala","count": [{"candidate": 1, "votes":42021},{"candidate": 2, "votes": 25407},{"candidate": 3, "votes": 1468},{"candidate": 4, "votes": 1721}]},
+    {"divisionId":1704,"divisionName": "Kalawewa","count": [{"candidate": 1, "votes":63306},{"candidate": 2, "votes": 34215},{"candidate": 3, "votes": 4023},{"candidate": 4, "votes": 2416}]}
 
   ]
 }
