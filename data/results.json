@@ -93,7 +93,14 @@
     {"divisionId":403,"divisionName": "Harispattuwa","count": [{"candidate": 1, "votes":64298},{"candidate": 2, "votes": 62044},{"candidate": 3, "votes": 3401},{"candidate": 4, "votes": 2754}]},
     {"divisionId":207,"divisionName": "Katana","count": [{"candidate": 1, "votes":71565},{"candidate": 2, "votes": 43053},{"candidate": 3, "votes": 5343},{"candidate": 4, "votes": 3219}]},
     {"divisionId":902,"divisionName": "Mulkirigala","count": [{"candidate": 1, "votes":58903},{"candidate": 2, "votes": 22329},{"candidate": 3, "votes": 4192},{"candidate": 4, "votes": 1542}]},
-    {"divisionId":203,"divisionName": "Divulapitiya","count": [{"candidate": 1, "votes":55371},{"candidate": 2, "votes": 32149},{"candidate": 3, "votes": 3117},{"candidate": 4, "votes": 1755}]}
+    {"divisionId":203,"divisionName": "Divulapitiya","count": [{"candidate": 1, "votes":55371},{"candidate": 2, "votes": 32149},{"candidate": 3, "votes": 3117},{"candidate": 4, "votes": 1755}]},
+    {"divisionId":1304,"divisionName": "Sammanturai","count": [{"candidate": 1, "votes":7151},{"candidate": 2, "votes": 57910},{"candidate": 3, "votes": 572},{"candidate": 4, "votes": 1532}]},
+    {"divisionId":1502,"divisionName": "Dambadeniya","count": [{"candidate": 1, "votes":47006},{"candidate": 2, "votes": 27041},{"candidate": 3, "votes": 2506},{"candidate": 4, "votes": 1394}]},
+    {"divisionId":1702,"divisionName": "Anuradhapura-West","count": [{"candidate": 1, "votes":51091},{"candidate": 2, "votes": 30301},{"candidate": 3, "votes": 2789},{"candidate": 4, "votes": 1909}]},
+    {"divisionId":1511,"divisionName": "Panduwasnuwara","count": [{"candidate": 1, "votes":35508},{"candidate": 2, "votes": 24238},{"candidate": 3, "votes": 1441},{"candidate": 4, "votes": 1092}]},
+    {"divisionId":1513,"divisionName": "Wariyapola","count": [{"candidate": 1, "votes":40261},{"candidate": 2, "votes": 20591},{"candidate": 3, "votes": 1984},{"candidate": 4, "votes": 1163}]},
+    {"divisionId":1905,"divisionName": "Mahiyangane","count": [{"candidate": 1, "votes":46267},{"candidate": 2, "votes": 32345},{"candidate": 3, "votes": 2534},{"candidate": 4, "votes": 2474}]},
+    {"divisionId":305,"divisionName": "Horana","count": [{"candidate": 1, "votes":69822},{"candidate": 2, "votes": 32967},{"candidate": 3, "votes": 3532},{"candidate": 4, "votes": 2262}]}
 
   ]
 }
