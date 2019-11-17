@@ -43,7 +43,10 @@
     {"divisionId":801,"divisionName": "Akuressa","count": [{"candidate": 1, "votes":53478},{"candidate": 2, "votes": 21415},{"candidate": 3, "votes": 3787},{"candidate": 4, "votes": 1369}]},
     {"divisionId":1401,"divisionName": "Mutur","count": [{"candidate": 1, "votes":4925},{"candidate": 2, "votes": 74171},{"candidate": 3, "votes": 809},{"candidate": 4, "votes": 2371}]},
     {"divisionId":701,"divisionName": "Akmeemana","count": [{"candidate": 1, "votes":51418},{"candidate": 2, "votes": 24117},{"candidate": 3, "votes": 3745},{"candidate": 4, "votes": 1595}]},
-    {"divisionId":2210,"divisionName": "Postal","count": [{"candidate": 1, "votes":19869},{"candidate": 2, "votes": 9868},{"candidate": 3, "votes": 1497},{"candidate": 4, "votes": 479}]}
+    {"divisionId":2210,"divisionName": "Postal","count": [{"candidate": 1, "votes":19869},{"candidate": 2, "votes": 9868},{"candidate": 3, "votes": 1497},{"candidate": 4, "votes": 479}]},
+    {"divisionId":1103,"divisionName": "Vavuniya","count": [{"candidate": 1, "votes":13715},{"candidate": 2, "votes": 65141},{"candidate": 3, "votes": 667},{"candidate": 4, "votes": 4178}]},
+    {"divisionId":1909,"divisionName": "Wiyaluwa","count": [{"candidate": 1, "votes":24401},{"candidate": 2, "votes": 16227},{"candidate": 3, "votes": 795},{"candidate": 4, "votes": 1639}]},
+    {"divisionId":704,"divisionName": "Balapitiya","count": [{"candidate": 1, "votes":28185},{"candidate": 2, "votes": 12567},{"candidate": 3, "votes": 1127},{"candidate": 4, "votes": 779}]}
 
   ]
 }
