@@ -148,7 +148,30 @@
     {"divisionId":1906,"divisionName": "Passara","count": [{"candidate": 1, "votes":20038},{"candidate": 2, "votes": 28845},{"candidate": 3, "votes": 714},{"candidate": 4, "votes": 2273}]},
     {"divisionId":210,"divisionName": "Minuwangoda","count": [{"candidate": 1, "votes":69978},{"candidate": 2, "votes": 37212},{"candidate": 3, "votes": 5259},{"candidate": 4, "votes": 2217}]},
     {"divisionId":1506,"divisionName": "Katugampola","count": [{"candidate": 1, "votes":47832},{"candidate": 2, "votes": 29041},{"candidate": 3, "votes": 2284},{"candidate": 4, "votes": 1329}]},
-    {"divisionId":201,"divisionName": "Attanagalla","count": [{"candidate": 1, "votes":66850},{"candidate": 2, "votes": 39548},{"candidate": 3, "votes": 4829},{"candidate": 4, "votes": 2121}]}
+    {"divisionId":201,"divisionName": "Attanagalla","count": [{"candidate": 1, "votes":66850},{"candidate": 2, "votes": 39548},{"candidate": 3, "votes": 4829},{"candidate": 4, "votes": 2121}]},
+    {"divisionId":402,"divisionName": "Gampola","count": [{"candidate": 1, "votes":37648},{"candidate": 2, "votes": 46531},{"candidate": 3, "votes": 1469},{"candidate": 4, "votes": 2233}]},
+    {"divisionId":405,"divisionName": "Kundasale","count": [{"candidate": 1, "votes":43788},{"candidate": 2, "votes": 33293},{"candidate": 3, "votes": 2539},{"candidate": 4, "votes": 1750}]},
+    {"divisionId":406,"divisionName": "Mahanuwara","count": [{"candidate": 1, "votes":13795},{"candidate": 2, "votes": 16334},{"candidate": 3, "votes": 966},{"candidate": 4, "votes": 709}]},
+    {"divisionId":407,"divisionName": "Nawalapitiya","count": [{"candidate": 1, "votes":36436},{"candidate": 2, "votes": 39887},{"candidate": 3, "votes": 1740},{"candidate": 4, "votes": 2504}]},
+    {"divisionId":408,"divisionName": "Pathadumbara","count": [{"candidate": 1, "votes":32057},{"candidate": 2, "votes": 35848},{"candidate": 3, "votes": 1439},{"candidate": 4, "votes": 2070}]},
+    {"divisionId":409,"divisionName": "Senkadagala","count": [{"candidate": 1, "votes":35242},{"candidate": 2, "votes": 27399},{"candidate": 3, "votes": 2189},{"candidate": 4, "votes": 1575}]},
+    {"divisionId":412,"divisionName": "Udunuwara","count": [{"candidate": 1, "votes":33003},{"candidate": 2, "votes": 33131},{"candidate": 3, "votes": 1913},{"candidate": 4, "votes": 1560}]},
+    {"divisionId":413,"divisionName": "Yatinuwara","count": [{"candidate": 1, "votes":38765},{"candidate": 2, "votes": 24244},{"candidate": 3, "votes": 2021},{"candidate": 4, "votes": 1434}]},
+    {"divisionId":101,"divisionName": "Avissawella","count": [{"candidate": 1, "votes":61755},{"candidate": 2, "votes": 34532},{"candidate": 3, "votes": 3184},{"candidate": 4, "votes": 2019}]},
+    {"divisionId":102,"divisionName": "Borella","count": [{"candidate": 1, "votes":18850},{"candidate": 2, "votes": 27436},{"candidate": 3, "votes": 1500},{"candidate": 4, "votes": 966}]},
+    {"divisionId":103,"divisionName": "Colombo-Central","count": [{"candidate": 1, "votes":16341},{"candidate": 2, "votes": 80076},{"candidate": 3, "votes": 1528},{"candidate": 4, "votes": 1735}]},
+    {"divisionId":104,"divisionName": "Colombo-East","count": [{"candidate": 1, "votes":19619},{"candidate": 2, "votes": 28599},{"candidate": 3, "votes": 1750},{"candidate": 4, "votes": 1277}]},
+    {"divisionId":105,"divisionName": "Colombo-North","count": [{"candidate": 1, "votes":16986},{"candidate": 2, "votes": 52983},{"candidate": 3, "votes": 1084},{"candidate": 4, "votes": 1590}]},
+    {"divisionId":106,"divisionName": "Colombo-West","count": [{"candidate": 1, "votes":6644},{"candidate": 2, "votes": 21345},{"candidate": 3, "votes": 647},{"candidate": 4, "votes": 577}]},
+    {"divisionId":108,"divisionName": "Homagama","count": [{"candidate": 1, "votes":106102},{"candidate": 2, "votes": 40157},{"candidate": 3, "votes": 7596},{"candidate": 4, "votes": 2545}]},
+    {"divisionId":109,"divisionName": "Kaduwela","count": [{"candidate": 1, "votes":98807},{"candidate": 2, "votes": 41747},{"candidate": 3, "votes": 7605},{"candidate": 4, "votes": 3029}]},
+    {"divisionId":110,"divisionName": "Kesbewa","count": [{"candidate": 1, "votes":99062},{"candidate": 2, "votes": 37430},{"candidate": 3, "votes": 7343},{"candidate": 4, "votes": 2525}]},
+    {"divisionId":111,"divisionName": "Kolonnawa","count": [{"candidate": 1, "votes":53232},{"candidate": 2, "votes": 50456},{"candidate": 3, "votes": 3940},{"candidate": 4, "votes": 1867}]},
+    {"divisionId":113,"divisionName": "Maharagama","count": [{"candidate": 1, "votes":71893},{"candidate": 2, "votes": 29688},{"candidate": 3, "votes": 5820},{"candidate": 4, "votes": 2200}]},
+    {"divisionId":114,"divisionName": "Moratuwa","count": [{"candidate": 1, "votes":57645},{"candidate": 2, "votes": 36390},{"candidate": 3, "votes": 3534},{"candidate": 4, "votes": 2118}]},
+    {"divisionId":115,"divisionName": "Ratmalana","count": [{"candidate": 1, "votes":28085},{"candidate": 2, "votes": 23156},{"candidate": 3, "votes": 2124},{"candidate": 4, "votes": 1185}]}
+
+
 
   ]
 }
