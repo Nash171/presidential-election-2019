@@ -72,7 +72,11 @@
     {"divisionId":414,"divisionName": "Postal","count": [{"candidate": 1, "votes":34748},{"candidate": 2, "votes": 16303},{"candidate": 3, "votes": 2683},{"candidate": 4, "votes": 825}]},
     {"divisionId":1705,"divisionName": "Kekirawa","count": [{"candidate": 1, "votes":39361},{"candidate": 2, "votes": 26538},{"candidate": 3, "votes": 1929},{"candidate": 4, "votes": 1653}]},
     {"divisionId":2003,"divisionName": "Wellawaya","count": [{"candidate": 1, "votes":91349},{"candidate": 2, "votes": 35557},{"candidate": 3, "votes": 5094},{"candidate": 4, "votes": 2818}]},
-    {"divisionId":2002,"divisionName": "Moneragala","count": [{"candidate": 1, "votes":59360},{"candidate": 2, "votes": 28688},{"candidate": 3, "votes": 2537},{"candidate": 4, "votes": 2174}]}
+    {"divisionId":2002,"divisionName": "Moneragala","count": [{"candidate": 1, "votes":59360},{"candidate": 2, "votes": 28688},{"candidate": 3, "votes": 2537},{"candidate": 4, "votes": 2174}]},
+    {"divisionId":1201,"divisionName": "Batticaloa","count": [{"candidate": 1, "votes":12594},{"candidate": 2, "votes": 109449},{"candidate": 3, "votes": 1499},{"candidate": 4, "votes": 16540}]},
+    {"divisionId":1601,"divisionName": "Anamaduwa","count": [{"candidate": 1, "votes":60963},{"candidate": 2, "votes": 29842},{"candidate": 3, "votes": 2183},{"candidate": 4, "votes": 2160}]},
+    {"divisionId":2001,"divisionName": "Bibile","count": [{"candidate": 1, "votes":44351},{"candidate": 2, "votes": 21914},{"candidate": 3, "votes": 2264},{"candidate": 4, "votes": 1811}]},
+    {"divisionId":602,"divisionName": "Kotmale","count": [{"candidate": 1, "votes":27572},{"candidate": 2, "votes": 36901},{"candidate": 3, "votes": 1057},{"candidate": 4, "votes": 1929}]}
 
   ]
 }
