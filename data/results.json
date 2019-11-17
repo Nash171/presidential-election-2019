@@ -69,7 +69,10 @@
     {"divisionId":401,"divisionName": "Galagedara","count": [{"candidate": 1, "votes":24829},{"candidate": 2, "votes": 16839},{"candidate": 3, "votes": 959},{"candidate": 4, "votes": 1118}]},
     {"divisionId":1202,"divisionName": "Kalkudah","count": [{"candidate": 1, "votes":16663},{"candidate": 2, "votes": 65847},{"candidate": 3, "votes": 300},{"candidate": 4, "votes": 3882}]},
     {"divisionId":802,"divisionName": "Deniyaya","count": [{"candidate": 1, "votes":54472},{"candidate": 2, "votes": 25763},{"candidate": 3, "votes": 2786},{"candidate": 4, "votes": 2041}]},
-    {"divisionId":414,"divisionName": "Postal","count": [{"candidate": 1, "votes":34748},{"candidate": 2, "votes": 16303},{"candidate": 3, "votes": 2683},{"candidate": 4, "votes": 825}]}
+    {"divisionId":414,"divisionName": "Postal","count": [{"candidate": 1, "votes":34748},{"candidate": 2, "votes": 16303},{"candidate": 3, "votes": 2683},{"candidate": 4, "votes": 825}]},
+    {"divisionId":1705,"divisionName": "Kekirawa","count": [{"candidate": 1, "votes":39361},{"candidate": 2, "votes": 26538},{"candidate": 3, "votes": 1929},{"candidate": 4, "votes": 1653}]},
+    {"divisionId":2003,"divisionName": "Wellawaya","count": [{"candidate": 1, "votes":91349},{"candidate": 2, "votes": 35557},{"candidate": 3, "votes": 5094},{"candidate": 4, "votes": 2818}]},
+    {"divisionId":2002,"divisionName": "Moneragala","count": [{"candidate": 1, "votes":59360},{"candidate": 2, "votes": 28688},{"candidate": 3, "votes": 2537},{"candidate": 4, "votes": 2174}]}
 
   ]
 }
