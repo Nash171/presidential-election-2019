@@ -169,9 +169,12 @@
     {"divisionId":111,"divisionName": "Kolonnawa","count": [{"candidate": 1, "votes":53232},{"candidate": 2, "votes": 50456},{"candidate": 3, "votes": 3940},{"candidate": 4, "votes": 1867}]},
     {"divisionId":113,"divisionName": "Maharagama","count": [{"candidate": 1, "votes":71893},{"candidate": 2, "votes": 29688},{"candidate": 3, "votes": 5820},{"candidate": 4, "votes": 2200}]},
     {"divisionId":114,"divisionName": "Moratuwa","count": [{"candidate": 1, "votes":57645},{"candidate": 2, "votes": 36390},{"candidate": 3, "votes": 3534},{"candidate": 4, "votes": 2118}]},
-    {"divisionId":115,"divisionName": "Ratmalana","count": [{"candidate": 1, "votes":28085},{"candidate": 2, "votes": 23156},{"candidate": 3, "votes": 2124},{"candidate": 4, "votes": 1185}]}
-
-
+    {"divisionId":115,"divisionName": "Ratmalana","count": [{"candidate": 1, "votes":28085},{"candidate": 2, "votes": 23156},{"candidate": 3, "votes": 2124},{"candidate": 4, "votes": 1185}]},
+    {"divisionId":205,"divisionName": "Gampaha","count": [{"candidate": 1, "votes":84507},{"candidate": 2, "votes": 31984},{"candidate": 3, "votes": 6256},{"candidate": 4, "votes": 2800}]},
+    {"divisionId":209,"divisionName": "Mahara","count": [{"candidate": 1, "votes":83989},{"candidate": 2, "votes": 38407},{"candidate": 3, "votes": 5547},{"candidate": 4, "votes": 2407}]},
+    {"divisionId":213,"divisionName": "Wattala","count": [{"candidate": 1, "votes":48214},{"candidate": 2, "votes": 49463},{"candidate": 3, "votes": 3428},{"candidate": 4, "votes": 2557}]},
+    {"divisionId":501,"divisionName": "Dambulla","count": [{"candidate": 1, "votes":68177},{"candidate": 2, "votes": 37717},{"candidate": 3, "votes": 3221},{"candidate": 4, "votes": 2457}]},
+    {"divisionId":504,"divisionName": "Rattota","count": [{"candidate": 1, "votes":37390},{"candidate": 2, "votes": 35774},{"candidate": 3, "votes": 1717},{"candidate": 4, "votes": 2322}]}
 
   ]
 }
