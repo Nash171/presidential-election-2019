@@ -120,7 +120,10 @@
     {"divisionId":1504,"divisionName": "Galgamuwa","count": [{"candidate": 1, "votes":50185},{"candidate": 2, "votes": 30373},{"candidate": 3, "votes": 2553},{"candidate": 4, "votes": 1698}]},
     {"divisionId":1908,"divisionName": "Welimada","count": [{"candidate": 1, "votes":30670},{"candidate": 2, "votes": 29673},{"candidate": 3, "votes": 1671},{"candidate": 4, "votes": 1687}]},
     {"divisionId":204,"divisionName": "Dompe","count": [{"candidate": 1, "votes":67754},{"candidate": 2, "votes": 28629},{"candidate": 3, "votes": 3070},{"candidate": 4, "votes": 1798}]},
-    {"divisionId":1602,"divisionName": "Chillaw","count": [{"candidate": 1, "votes":51233},{"candidate": 2, "votes": 37512},{"candidate": 3, "votes": 2977},{"candidate": 4, "votes": 2163}]}
+    {"divisionId":1602,"divisionName": "Chillaw","count": [{"candidate": 1, "votes":51233},{"candidate": 2, "votes": 37512},{"candidate": 3, "votes": 2977},{"candidate": 4, "votes": 2163}]},
+    {"divisionId":503,"divisionName": "Matale","count": [{"candidate": 1, "votes":32486},{"candidate": 2, "votes": 33251},{"candidate": 3, "votes": 1895},{"candidate": 4, "votes": 1629}]},
+    {"divisionId":903,"divisionName": "Tangalle","count": [{"candidate": 1, "votes":72673},{"candidate": 2, "votes": 22141},{"candidate": 3, "votes": 7830},{"candidate": 4, "votes": 1881}]},
+    {"divisionId":603,"divisionName": "NuwaraEliya-Maskeliya","count": [{"candidate": 1, "votes":75499},{"candidate": 2, "votes": 174413},{"candidate": 3, "votes": 2256},{"candidate": 4, "votes": 10622}]}
 
   ]
 }
