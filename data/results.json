@@ -128,7 +128,8 @@
     {"divisionId":2204,"divisionName": "Galigamuwa","count": [{"candidate": 1, "votes":32376},{"candidate": 2, "votes": 20475},{"candidate": 3, "votes": 1405},{"candidate": 4, "votes": 1224}]},
     {"divisionId":208,"divisionName": "Kelaniya","count": [{"candidate": 1, "votes":43668},{"candidate": 2, "votes": 27521},{"candidate": 3, "votes": 3134},{"candidate": 4, "votes": 1532}]},
     {"divisionId":301,"divisionName": "Agalawatta","count": [{"candidate": 1, "votes":52400},{"candidate": 2, "votes": 28744},{"candidate": 3, "votes": 2319},{"candidate": 4, "votes": 1928}]},
-    {"divisionId":307,"divisionName": "Matugama","count": [{"candidate": 1, "votes":55932},{"candidate": 2, "votes": 31451},{"candidate": 3, "votes": 3028},{"candidate": 4, "votes": 2155}]}
+    {"divisionId":307,"divisionName": "Matugama","count": [{"candidate": 1, "votes":55932},{"candidate": 2, "votes": 31451},{"candidate": 3, "votes": 3028},{"candidate": 4, "votes": 2155}]},
+    {"divisionId":410,"divisionName": "Teldeniya","count": [{"candidate": 1, "votes":20296},{"candidate": 2, "votes": 18238},{"candidate": 3, "votes": 681},{"candidate": 4, "votes": 1153}]}
 
   ]
 }
