@@ -112,7 +112,11 @@
     {"divisionId":1603,"divisionName": "Nattandiya","count": [{"candidate": 1, "votes":38832},{"candidate": 2, "votes": 24308},{"candidate": 3, "votes": 2190},{"candidate": 4, "votes": 1601}]},
     {"divisionId":306,"divisionName": "Kalutara","count": [{"candidate": 1, "votes":59796},{"candidate": 2, "votes": 34076},{"candidate": 3, "votes": 4034},{"candidate": 4, "votes": 2059}]},
     {"divisionId":1701,"divisionName": "Anuradhapura-East","count": [{"candidate": 1, "votes":49708},{"candidate": 2, "votes": 25910},{"candidate": 3, "votes": 4567},{"candidate": 4, "votes": 1694}]},
-    {"divisionId":1301,"divisionName": "Ampara","count": [{"candidate": 1, "votes":89674},{"candidate": 2, "votes": 42241},{"candidate": 3, "votes": 3984},{"candidate": 4, "votes": 2717}]}
+    {"divisionId":1301,"divisionName": "Ampara","count": [{"candidate": 1, "votes":89674},{"candidate": 2, "votes": 42241},{"candidate": 3, "votes": 3984},{"candidate": 4, "votes": 2717}]},
+    {"divisionId":211,"divisionName": "Mirigama","count": [{"candidate": 1, "votes":61478},{"candidate": 2, "votes": 35184},{"candidate": 3, "votes": 4720},{"candidate": 4, "votes": 1897}]},
+    {"divisionId":1604,"divisionName": "Puttalam","count": [{"candidate": 1, "votes":26118},{"candidate": 2, "votes": 76385},{"candidate": 3, "votes": 1896},{"candidate": 4, "votes": 2756}]},
+    {"divisionId":1510,"divisionName": "Nikaweratiya","count": [{"candidate": 1, "votes":44354},{"candidate": 2, "votes": 30286},{"candidate": 3, "votes": 2194},{"candidate": 4, "votes": 1673}]},
+    {"divisionId":904,"divisionName": "Tissamaharama","count": [{"candidate": 1, "votes":91577},{"candidate": 2, "votes": 43460},{"candidate": 3, "votes": 8749},{"candidate": 4, "votes": 2623}]}
 
   ]
 }
