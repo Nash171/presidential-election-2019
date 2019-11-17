@@ -139,7 +139,12 @@
     {"divisionId":206,"divisionName": "Ja-Ela","count": [{"candidate": 1, "votes":71690},{"candidate": 2, "votes": 41649},{"candidate": 3, "votes": 5556},{"candidate": 4, "votes": 3102}]},
     {"divisionId":804,"divisionName": "Hakmana","count": [{"candidate": 1, "votes":55814},{"candidate": 2, "votes": 18346},{"candidate": 3, "votes": 2750},{"candidate": 4, "votes": 1561}]},
     {"divisionId":1509,"divisionName": "Mawathagama","count": [{"candidate": 1, "votes":41961},{"candidate": 2, "votes": 30124},{"candidate": 3, "votes": 2468},{"candidate": 4, "votes": 1547}]},
-    {"divisionId":2208,"divisionName": "Ruwanwella","count": [{"candidate": 1, "votes":35714},{"candidate": 2, "votes": 24604},{"candidate": 3, "votes": 1403},{"candidate": 4, "votes": 1260}]}
+    {"divisionId":2208,"divisionName": "Ruwanwella","count": [{"candidate": 1, "votes":35714},{"candidate": 2, "votes": 24604},{"candidate": 3, "votes": 1403},{"candidate": 4, "votes": 1260}]},
+    {"divisionId":1507,"divisionName": "Kuliyapitiya","count": [{"candidate": 1, "votes":44701},{"candidate": 2, "votes": 35807},{"candidate": 3, "votes": 2159},{"candidate": 4, "votes": 1500}]},
+    {"divisionId":2207,"divisionName": "Rambukkana","count": [{"candidate": 1, "votes":31902},{"candidate": 2, "votes": 18657},{"candidate": 3, "votes": 1828},{"candidate": 4, "votes": 1197}]},
+    {"divisionId":411,"divisionName": "Ududumbara","count": [{"candidate": 1, "votes":29334},{"candidate": 2, "votes": 19098},{"candidate": 3, "votes": 748},{"candidate": 4, "votes": 1298}]},
+    {"divisionId":202,"divisionName": "Biyagama","count": [{"candidate": 1, "votes":68145},{"candidate": 2, "votes": 33715},{"candidate": 3, "votes": 4188},{"candidate": 4, "votes": 1890}]},
+    {"divisionId":112,"divisionName": "Kotte","count": [{"candidate": 1, "votes":31853},{"candidate": 2, "votes": 22628},{"candidate": 3, "votes": 2439},{"candidate": 4, "votes": 1466}]}
 
   ]
 }
