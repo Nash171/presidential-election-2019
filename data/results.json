@@ -136,7 +136,10 @@
     {"divisionId":1501,"divisionName": "Bingiriya","count": [{"candidate": 1, "votes":42161},{"candidate": 2, "votes": 29247},{"candidate": 3, "votes": 1514},{"candidate": 4, "votes": 1396}]},
     {"divisionId":502,"divisionName": "Laggala","count": [{"candidate": 1, "votes":36363},{"candidate": 2, "votes": 21384},{"candidate": 3, "votes": 1070},{"candidate": 4, "votes": 1561}]},
     {"divisionId":1514,"divisionName": "Yapahuwa","count": [{"candidate": 1, "votes":55823},{"candidate": 2, "votes": 32581},{"candidate": 3, "votes": 2944},{"candidate": 4, "votes": 1914}]},
-    {"divisionId":206,"divisionName": "Ja-Ela","count": [{"candidate": 1, "votes":71690},{"candidate": 2, "votes": 41649},{"candidate": 3, "votes": 5556},{"candidate": 4, "votes": 3102}]}
+    {"divisionId":206,"divisionName": "Ja-Ela","count": [{"candidate": 1, "votes":71690},{"candidate": 2, "votes": 41649},{"candidate": 3, "votes": 5556},{"candidate": 4, "votes": 3102}]},
+    {"divisionId":804,"divisionName": "Hakmana","count": [{"candidate": 1, "votes":55814},{"candidate": 2, "votes": 18346},{"candidate": 3, "votes": 2750},{"candidate": 4, "votes": 1561}]},
+    {"divisionId":1509,"divisionName": "Mawathagama","count": [{"candidate": 1, "votes":41961},{"candidate": 2, "votes": 30124},{"candidate": 3, "votes": 2468},{"candidate": 4, "votes": 1547}]},
+    {"divisionId":2208,"divisionName": "Ruwanwella","count": [{"candidate": 1, "votes":35714},{"candidate": 2, "votes": 24604},{"candidate": 3, "votes": 1403},{"candidate": 4, "votes": 1260}]}
 
   ]
 }
