@@ -52,7 +52,12 @@
     {"divisionId":806,"divisionName": "Matara","count": [{"candidate": 1, "votes":47203},{"candidate": 2, "votes": 21747},{"candidate": 3, "votes": 4084},{"candidate": 4, "votes": 1116}]},
     {"divisionId":1901,"divisionName": "Badulla","count": [{"candidate": 1, "votes":23029},{"candidate": 2, "votes": 19912},{"candidate": 3, "votes": 1522},{"candidate": 4, "votes": 1144}]},
     {"divisionId":604,"divisionName": "Walapane","count": [{"candidate": 1, "votes":32602},{"candidate": 2, "votes": 33908},{"candidate": 3, "votes": 787},{"candidate": 4, "votes": 2595}]},
-    {"divisionId":709,"divisionName": "Karandeniya","count": [{"candidate": 1, "votes":42664},{"candidate": 2, "votes": 14437},{"candidate": 3, "votes": 2199},{"candidate": 4, "votes": 1393}]}
+    {"divisionId":709,"divisionName": "Karandeniya","count": [{"candidate": 1, "votes":42664},{"candidate": 2, "votes": 14437},{"candidate": 3, "votes": 2199},{"candidate": 4, "votes": 1393}]},
+    {"divisionId":901,"divisionName": "Beliatta","count": [{"candidate": 1, "votes":42668},{"candidate": 2, "votes": 17029},{"candidate": 3, "votes": 3793},{"candidate": 4, "votes": 1151}]},
+    {"divisionId":807,"divisionName": "Weligama","count": [{"candidate": 1, "votes":52439},{"candidate": 2, "votes": 23065},{"candidate": 3, "votes": 2692},{"candidate": 4, "votes": 1341}]},
+    {"divisionId":212,"divisionName": "Negombo","count": [{"candidate": 1, "votes":31743},{"candidate": 2, "votes": 44032},{"candidate": 3, "votes": 4132},{"candidate": 4, "votes": 3132}]},
+    {"divisionId":708,"divisionName": "Hiniduma","count": [{"candidate": 1, "votes":54299},{"candidate": 2, "votes": 28046},{"candidate": 3, "votes": 2479},{"candidate": 4, "votes": 1827}]},
+    {"divisionId":601,"divisionName": "Hanguranketha","count": [{"candidate": 1, "votes":30999},{"candidate": 2, "votes": 24995},{"candidate": 3, "votes": 1153},{"candidate": 4, "votes": 1899}]}
 
   ]
 }
