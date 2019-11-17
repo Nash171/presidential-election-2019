@@ -68,7 +68,8 @@
     {"divisionId":1302,"divisionName": "Kalmunai","count": [{"candidate": 1, "votes":7286},{"candidate": 2, "votes": 47309},{"candidate": 3, "votes": 709},{"candidate": 4, "votes": 1641}]},
     {"divisionId":401,"divisionName": "Galagedara","count": [{"candidate": 1, "votes":24829},{"candidate": 2, "votes": 16839},{"candidate": 3, "votes": 959},{"candidate": 4, "votes": 1118}]},
     {"divisionId":1202,"divisionName": "Kalkudah","count": [{"candidate": 1, "votes":16663},{"candidate": 2, "votes": 65847},{"candidate": 3, "votes": 300},{"candidate": 4, "votes": 3882}]},
-    {"divisionId":802,"divisionName": "Deniyaya","count": [{"candidate": 1, "votes":54472},{"candidate": 2, "votes": 25763},{"candidate": 3, "votes": 2786},{"candidate": 4, "votes": 2041}]}
+    {"divisionId":802,"divisionName": "Deniyaya","count": [{"candidate": 1, "votes":54472},{"candidate": 2, "votes": 25763},{"candidate": 3, "votes": 2786},{"candidate": 4, "votes": 2041}]},
+    {"divisionId":414,"divisionName": "Postal","count": [{"candidate": 1, "votes":34748},{"candidate": 2, "votes": 16303},{"candidate": 3, "votes": 2683},{"candidate": 4, "votes": 825}]}
 
   ]
 }
