@@ -46,7 +46,11 @@
     {"divisionId":2210,"divisionName": "Postal","count": [{"candidate": 1, "votes":19869},{"candidate": 2, "votes": 9868},{"candidate": 3, "votes": 1497},{"candidate": 4, "votes": 479}]},
     {"divisionId":1103,"divisionName": "Vavuniya","count": [{"candidate": 1, "votes":13715},{"candidate": 2, "votes": 65141},{"candidate": 3, "votes": 667},{"candidate": 4, "votes": 4178}]},
     {"divisionId":1909,"divisionName": "Wiyaluwa","count": [{"candidate": 1, "votes":24401},{"candidate": 2, "votes": 16227},{"candidate": 3, "votes": 795},{"candidate": 4, "votes": 1639}]},
-    {"divisionId":704,"divisionName": "Balapitiya","count": [{"candidate": 1, "votes":28185},{"candidate": 2, "votes": 12567},{"candidate": 3, "votes": 1127},{"candidate": 4, "votes": 779}]}
+    {"divisionId":704,"divisionName": "Balapitiya","count": [{"candidate": 1, "votes":28185},{"candidate": 2, "votes": 12567},{"candidate": 3, "votes": 1127},{"candidate": 4, "votes": 779}]},
+    {"divisionId":805,"divisionName": "Kamburupitiya","count": [{"candidate": 1, "votes":48140},{"candidate": 2, "votes": 15517},{"candidate": 3, "votes": 2427},{"candidate": 4, "votes": 1220}]},
+    {"divisionId":1402,"divisionName": "Seruwila","count": [{"candidate": 1, "votes":31303},{"candidate": 2, "votes": 28205},{"candidate": 3, "votes": 1598},{"candidate": 4, "votes": 1631}]},
+    {"divisionId":806,"divisionName": "Matara","count": [{"candidate": 1, "votes":47203},{"candidate": 2, "votes": 21747},{"candidate": 3, "votes": 4084},{"candidate": 4, "votes": 1116}]},
+    {"divisionId":1901,"divisionName": "Badulla","count": [{"candidate": 1, "votes":23029},{"candidate": 2, "votes": 19912},{"candidate": 3, "votes": 1522},{"candidate": 4, "votes": 1144}]}
 
   ]
 }
