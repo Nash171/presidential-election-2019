@@ -129,7 +129,14 @@
     {"divisionId":208,"divisionName": "Kelaniya","count": [{"candidate": 1, "votes":43668},{"candidate": 2, "votes": 27521},{"candidate": 3, "votes": 3134},{"candidate": 4, "votes": 1532}]},
     {"divisionId":301,"divisionName": "Agalawatta","count": [{"candidate": 1, "votes":52400},{"candidate": 2, "votes": 28744},{"candidate": 3, "votes": 2319},{"candidate": 4, "votes": 1928}]},
     {"divisionId":307,"divisionName": "Matugama","count": [{"candidate": 1, "votes":55932},{"candidate": 2, "votes": 31451},{"candidate": 3, "votes": 3028},{"candidate": 4, "votes": 2155}]},
-    {"divisionId":410,"divisionName": "Teldeniya","count": [{"candidate": 1, "votes":20296},{"candidate": 2, "votes": 18238},{"candidate": 3, "votes": 681},{"candidate": 4, "votes": 1153}]}
+    {"divisionId":410,"divisionName": "Teldeniya","count": [{"candidate": 1, "votes":20296},{"candidate": 2, "votes": 18238},{"candidate": 3, "votes": 681},{"candidate": 4, "votes": 1153}]},
+    {"divisionId":2104,"divisionName": "Kolonna","count": [{"candidate": 1, "votes":83520},{"candidate": 2, "votes": 32052},{"candidate": 3, "votes": 4747},{"candidate": 4, "votes": 2411}]},
+    {"divisionId":404,"divisionName": "Hewaheta","count": [{"candidate": 1, "votes":27263},{"candidate": 2, "votes": 28166},{"candidate": 3, "votes": 791},{"candidate": 4, "votes": 1496}]},
+    {"divisionId":303,"divisionName": "Beruwala","count": [{"candidate": 1, "votes":48037},{"candidate": 2, "votes": 47654},{"candidate": 3, "votes": 3172},{"candidate": 4, "votes": 2091}]},
+    {"divisionId":1501,"divisionName": "Bingiriya","count": [{"candidate": 1, "votes":42161},{"candidate": 2, "votes": 29247},{"candidate": 3, "votes": 1514},{"candidate": 4, "votes": 1396}]},
+    {"divisionId":502,"divisionName": "Laggala","count": [{"candidate": 1, "votes":36363},{"candidate": 2, "votes": 21384},{"candidate": 3, "votes": 1070},{"candidate": 4, "votes": 1561}]},
+    {"divisionId":1514,"divisionName": "Yapahuwa","count": [{"candidate": 1, "votes":55823},{"candidate": 2, "votes": 32581},{"candidate": 3, "votes": 2944},{"candidate": 4, "votes": 1914}]},
+    {"divisionId":206,"divisionName": "Ja-Ela","count": [{"candidate": 1, "votes":71690},{"candidate": 2, "votes": 41649},{"candidate": 3, "votes": 5556},{"candidate": 4, "votes": 3102}]}
 
   ]
 }
