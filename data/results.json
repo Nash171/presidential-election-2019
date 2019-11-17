@@ -38,7 +38,12 @@
     {"divisionId":1010,"divisionName": "Udupiddy","count": [{"candidate": 1, "votes":1334},{"candidate": 2, "votes": 19307},{"candidate": 3, "votes": 63},{"candidate": 4, "votes": 2917}]},
     {"divisionId":1007,"divisionName": "Manipay","count": [{"candidate": 1, "votes":1859},{"candidate": 2, "votes": 31369},{"candidate": 3, "votes": 102},{"candidate": 4, "votes": 3708}]},
     {"divisionId":1204,"divisionName": "Postal","count": [{"candidate": 1, "votes":1255},{"candidate": 2, "votes": 9221},{"candidate": 3, "votes": 349},{"candidate": 4, "votes": 443}]},
-    {"divisionId":1515,"divisionName": "Postal","count": [{"candidate": 1, "votes":45193},{"candidate": 2, "votes": 23432},{"candidate": 3, "votes": 4400},{"candidate": 4, "votes": 941}]}
+    {"divisionId":1515,"divisionName": "Postal","count": [{"candidate": 1, "votes":45193},{"candidate": 2, "votes": 23432},{"candidate": 3, "votes": 4400},{"candidate": 4, "votes": 941}]},
+    {"divisionId":710,"divisionName": "Ratgama","count": [{"candidate": 1, "votes":42756},{"candidate": 2, "votes": 17062},{"candidate": 3, "votes": 1896},{"candidate": 4, "votes": 1233}]},
+    {"divisionId":801,"divisionName": "Akuressa","count": [{"candidate": 1, "votes":53478},{"candidate": 2, "votes": 21415},{"candidate": 3, "votes": 3787},{"candidate": 4, "votes": 1369}]},
+    {"divisionId":1401,"divisionName": "Mutur","count": [{"candidate": 1, "votes":4925},{"candidate": 2, "votes": 74171},{"candidate": 3, "votes": 809},{"candidate": 4, "votes": 2371}]},
+    {"divisionId":701,"divisionName": "Akmeemana","count": [{"candidate": 1, "votes":51418},{"candidate": 2, "votes": 24117},{"candidate": 3, "votes": 3745},{"candidate": 4, "votes": 1595}]},
+    {"divisionId":2210,"divisionName": "Postal","count": [{"candidate": 1, "votes":19869},{"candidate": 2, "votes": 9868},{"candidate": 3, "votes": 1497},{"candidate": 4, "votes": 479}]}
 
   ]
 }
