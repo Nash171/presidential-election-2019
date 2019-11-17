@@ -20,7 +20,14 @@
     {"divisionId":707,"divisionName": "Habaraduwa","count": [{"candidate": 1, "votes":47659},{"candidate": 2, "votes": 17487},{"candidate": 3, "votes": 2264},{"candidate": 4, "votes": 1265}]},
     {"divisionId":905,"divisionName": "Postal","count": [{"candidate": 1, "votes":12983},{"candidate": 2, "votes": 3947},{"candidate": 3, "votes": 1731},{"candidate": 4, "votes": 172}]},
     {"divisionId":1009,"divisionName": "Point Pedro","count": [{"candidate": 1, "votes":1848},{"candidate": 2, "votes": 19931},{"candidate": 3, "votes": 57},{"candidate": 4, "votes": 2380}]},
-    {"divisionId":706,"divisionName": "Galle","count": [{"candidate": 1, "votes":31108},{"candidate": 2, "votes": 31248},{"candidate": 3, "votes": 3044},{"candidate": 4, "votes": 1238}]}
-
+    {"divisionId":706,"divisionName": "Galle","count": [{"candidate": 1, "votes":31108},{"candidate": 2, "votes": 31248},{"candidate": 3, "votes": 3044},{"candidate": 4, "votes": 1238}]},
+    {"divisionId":1003,"divisionName": "Kankesanturai","count": [{"candidate": 1, "votes":1688},{"candidate": 2, "votes": 23773},{"candidate": 3, "votes": 101},{"candidate": 4, "votes": 3012}]},
+    {"divisionId":1011,"divisionName": "Vaddukkoddai","count": [{"candidate": 1, "votes":1728},{"candidate": 2, "votes": 26238},{"candidate": 3, "votes": 126},{"candidate": 4, "votes": 3733}]},
+    {"divisionId":1001,"divisionName": "Chavakachcheri","count": [{"candidate": 1, "votes":1775},{"candidate": 2, "votes": 28007},{"candidate": 3, "votes": 98},{"candidate": 4, "votes": 3166}]},
+    {"divisionId":1708,"divisionName": "Postal","count": [{"candidate": 1, "votes":28957},{"candidate": 2, "votes": 15367},{"candidate": 3, "votes": 2740},{"candidate": 4, "votes": 705}]},
+    {"divisionId":808,"divisionName": "Postal","count": [{"candidate": 1, "votes":19379},{"candidate": 2, "votes": 5782},{"candidate": 3, "votes": 2153},{"candidate": 4, "votes": 281}]},
+    {"divisionId":1006,"divisionName": "Kopay","count": [{"candidate": 1, "votes":1858},{"candidate": 2, "votes": 30835},{"candidate": 3, "votes": 100},{"candidate": 4, "votes": 4160}]},
+    {"divisionId":1012,"divisionName": "Postal","count": [{"candidate": 1, "votes":1563},{"candidate": 2, "votes": 17961},{"candidate": 3, "votes": 239},{"candidate": 4, "votes": 1446}]},
+    {"divisionId":1101,"divisionName": "Mannar","count": [{"candidate": 1, "votes":6435},{"candidate": 2, "votes": 53602},{"candidate": 3, "votes": 180},{"candidate": 4, "votes": 3048}]}
   ]
 }
