@@ -81,7 +81,13 @@
     {"divisionId":1903,"divisionName": "Hali Ela","count": [{"candidate": 1, "votes":26485},{"candidate": 2, "votes": 28502},{"candidate": 3, "votes": 1379},{"candidate": 4, "votes": 2181}]},
     {"divisionId":1904,"divisionName": "Haputale","count": [{"candidate": 1, "votes":21993},{"candidate": 2, "votes": 29641},{"candidate": 3, "votes": 1023},{"candidate": 4, "votes": 1941}]},
     {"divisionId":1203,"divisionName": "Padiruppu","count": [{"candidate": 1, "votes":7948},{"candidate": 2, "votes": 54132},{"candidate": 3, "votes": 156},{"candidate": 4, "votes": 2943}]},
-    {"divisionId":107,"divisionName": "Dehiwala","count": [{"candidate": 1, "votes":19122},{"candidate": 2, "votes": 25004},{"candidate": 3, "votes": 1480},{"candidate": 4, "votes": 919}]}
+    {"divisionId":107,"divisionName": "Dehiwala","count": [{"candidate": 1, "votes":19122},{"candidate": 2, "votes": 25004},{"candidate": 3, "votes": 1480},{"candidate": 4, "votes": 919}]},
+    {"divisionId":1703,"divisionName": "Horowupotana","count": [{"candidate": 1, "votes":36698},{"candidate": 2, "votes": 27274},{"candidate": 3, "votes": 1967},{"candidate": 4, "votes": 1499}]},
+    {"divisionId":1508,"divisionName": "Kurunegala","count": [{"candidate": 1, "votes":41940},{"candidate": 2, "votes": 29021},{"candidate": 3, "votes": 3030},{"candidate": 4, "votes": 1332}]},
+    {"divisionId":1512,"divisionName": "Polgahawela","count": [{"candidate": 1, "votes":36836},{"candidate": 2, "votes": 23458},{"candidate": 3, "votes": 2085},{"candidate": 4, "votes": 1150}]},
+    {"divisionId":302,"divisionName": "Bandaragama","count": [{"candidate": 1, "votes":74879},{"candidate": 2, "votes": 38981},{"candidate": 3, "votes": 4312},{"candidate": 4, "votes": 2265}]},
+    {"divisionId":1803,"divisionName": "Polonnaruwa","count": [{"candidate": 1, "votes":62882},{"candidate": 2, "votes": 54238},{"candidate": 3, "votes": 5045},{"candidate": 4, "votes": 2785}]},
+    {"divisionId":1902,"divisionName": "Bandarawela","count": [{"candidate": 1, "votes":34528},{"candidate": 2, "votes": 32242},{"candidate": 3, "votes": 1915},{"candidate": 4, "votes": 2089}]}
 
   ]
 }
