@@ -174,7 +174,13 @@
     {"divisionId":209,"divisionName": "Mahara","count": [{"candidate": 1, "votes":83989},{"candidate": 2, "votes": 38407},{"candidate": 3, "votes": 5547},{"candidate": 4, "votes": 2407}]},
     {"divisionId":213,"divisionName": "Wattala","count": [{"candidate": 1, "votes":48214},{"candidate": 2, "votes": 49463},{"candidate": 3, "votes": 3428},{"candidate": 4, "votes": 2557}]},
     {"divisionId":501,"divisionName": "Dambulla","count": [{"candidate": 1, "votes":68177},{"candidate": 2, "votes": 37717},{"candidate": 3, "votes": 3221},{"candidate": 4, "votes": 2457}]},
-    {"divisionId":504,"divisionName": "Rattota","count": [{"candidate": 1, "votes":37390},{"candidate": 2, "votes": 35774},{"candidate": 3, "votes": 1717},{"candidate": 4, "votes": 2322}]}
-
+    {"divisionId":504,"divisionName": "Rattota","count": [{"candidate": 1, "votes":37390},{"candidate": 2, "votes": 35774},{"candidate": 3, "votes": 1717},{"candidate": 4, "votes": 2322}]},
+    {"divisionId":1505,"divisionName": "Hiriyala","count": [{"candidate": 1, "votes":46443},{"candidate": 2, "votes": 30232},{"candidate": 3, "votes": 2538},{"candidate": 4, "votes": 1648}]},
+    {"divisionId":2201,"divisionName": "Aranayake","count": [{"candidate": 1, "votes":24294},{"candidate": 2, "votes": 17075},{"candidate": 3, "votes": 752},{"candidate": 4, "votes": 961}]},
+    {"divisionId":2202,"divisionName": "Dedigama","count": [{"candidate": 1, "votes":41632},{"candidate": 2, "votes": 28097},{"candidate": 3, "votes": 2164},{"candidate": 4, "votes": 1347}]},
+    {"divisionId":2203,"divisionName": "Deraniyagala","count": [{"candidate": 1, "votes":31392},{"candidate": 2, "votes": 23733},{"candidate": 3, "votes": 1116},{"candidate": 4, "votes": 1570}]},
+    {"divisionId":2205,"divisionName": "Kegalle","count": [{"candidate": 1, "votes":36109},{"candidate": 2, "votes": 19341},{"candidate": 3, "votes": 2032},{"candidate": 4, "votes": 1212}]},
+    {"divisionId":2206,"divisionName": "Mawanella","count": [{"candidate": 1, "votes":34443},{"candidate": 2, "votes": 37967},{"candidate": 3, "votes": 1856},{"candidate": 4, "votes": 1533}]},
+    {"divisionId":2209,"divisionName": "Yatiyantota","count": [{"candidate": 1, "votes":32753},{"candidate": 2, "votes": 28215},{"candidate": 3, "votes": 990},{"candidate": 4, "votes": 1489}]}
   ]
 }
