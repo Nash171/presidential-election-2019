@@ -63,7 +63,10 @@
     {"divisionId":1403,"divisionName": "Trincomalee","count": [{"candidate": 1, "votes":12818},{"candidate": 2, "votes": 56594},{"candidate": 3, "votes": 713},{"candidate": 4, "votes": 2412}]},
     {"divisionId":1706,"divisionName": "Medawachchiya","count": [{"candidate": 1, "votes":42287},{"candidate": 2, "votes": 23423},{"candidate": 3, "votes": 2619},{"candidate": 4, "votes": 1677}]},
     {"divisionId":2102,"divisionName": "Eheliyagoda","count": [{"candidate": 1, "votes":50993},{"candidate": 2, "votes": 28855},{"candidate": 3, "votes": 1946},{"candidate": 4, "votes": 1647}]},
-    {"divisionId":1801,"divisionName": "Medirigiriya","count": [{"candidate": 1, "votes":34022},{"candidate": 2, "votes": 28324},{"candidate": 3, "votes": 2734},{"candidate": 4, "votes": 1064}]}
+    {"divisionId":1801,"divisionName": "Medirigiriya","count": [{"candidate": 1, "votes":34022},{"candidate": 2, "votes": 28324},{"candidate": 3, "votes": 2734},{"candidate": 4, "votes": 1064}]},
+    {"divisionId":703,"divisionName": "Baddegama","count": [{"candidate": 1, "votes":51698},{"candidate": 2, "votes": 24945},{"candidate": 3, "votes": 2811},{"candidate": 4, "votes": 1880}]},
+    {"divisionId":1302,"divisionName": "Kalmunai","count": [{"candidate": 1, "votes":7286},{"candidate": 2, "votes": 47309},{"candidate": 3, "votes": 709},{"candidate": 4, "votes": 1641}]},
+    {"divisionId":401,"divisionName": "Galagedara","count": [{"candidate": 1, "votes":24829},{"candidate": 2, "votes": 16839},{"candidate": 3, "votes": 959},{"candidate": 4, "votes": 1118}]}
 
   ]
 }
