@@ -57,7 +57,13 @@
     {"divisionId":807,"divisionName": "Weligama","count": [{"candidate": 1, "votes":52439},{"candidate": 2, "votes": 23065},{"candidate": 3, "votes": 2692},{"candidate": 4, "votes": 1341}]},
     {"divisionId":212,"divisionName": "Negombo","count": [{"candidate": 1, "votes":31743},{"candidate": 2, "votes": 44032},{"candidate": 3, "votes": 4132},{"candidate": 4, "votes": 3132}]},
     {"divisionId":708,"divisionName": "Hiniduma","count": [{"candidate": 1, "votes":54299},{"candidate": 2, "votes": 28046},{"candidate": 3, "votes": 2479},{"candidate": 4, "votes": 1827}]},
-    {"divisionId":601,"divisionName": "Hanguranketha","count": [{"candidate": 1, "votes":30999},{"candidate": 2, "votes": 24995},{"candidate": 3, "votes": 1153},{"candidate": 4, "votes": 1899}]}
+    {"divisionId":601,"divisionName": "Hanguranketha","count": [{"candidate": 1, "votes":30999},{"candidate": 2, "votes": 24995},{"candidate": 3, "votes": 1153},{"candidate": 4, "votes": 1899}]},
+    {"divisionId":1802,"divisionName": "Minneriya","count": [{"candidate": 1, "votes":41151},{"candidate": 2, "votes": 24076},{"candidate": 3, "votes": 3271},{"candidate": 4, "votes": 1666}]},
+    {"divisionId":2108,"divisionName": "Ratnapura","count": [{"candidate": 1, "votes":64809},{"candidate": 2, "votes": 37400},{"candidate": 3, "votes": 2733},{"candidate": 4, "votes": 2044}]},
+    {"divisionId":1403,"divisionName": "Trincomalee","count": [{"candidate": 1, "votes":12818},{"candidate": 2, "votes": 56594},{"candidate": 3, "votes": 713},{"candidate": 4, "votes": 2412}]},
+    {"divisionId":1706,"divisionName": "Medawachchiya","count": [{"candidate": 1, "votes":42287},{"candidate": 2, "votes": 23423},{"candidate": 3, "votes": 2619},{"candidate": 4, "votes": 1677}]},
+    {"divisionId":2102,"divisionName": "Eheliyagoda","count": [{"candidate": 1, "votes":50993},{"candidate": 2, "votes": 28855},{"candidate": 3, "votes": 1946},{"candidate": 4, "votes": 1647}]},
+    {"divisionId":1801,"divisionName": "Medirigiriya","count": [{"candidate": 1, "votes":34022},{"candidate": 2, "votes": 28324},{"candidate": 3, "votes": 2734},{"candidate": 4, "votes": 1064}]}
 
   ]
 }
