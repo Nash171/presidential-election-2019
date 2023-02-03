@@ -1,5 +1,7 @@
 # presidential-election-2019
 
+https://nash171.github.io/presidential-election-2019/
+
 ## Project setup
 ```
 npm install
